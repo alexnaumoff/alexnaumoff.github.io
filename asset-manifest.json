@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.faf1a7f8.css",
-    "main.js": "/static/js/main.9dfd8f37.js",
+    "main.css": "/static/css/main.d5594e7f.css",
+    "main.js": "/static/js/main.9cf57544.js",
+    "static/media/never.jpg": "/static/media/never.2aa0319f2cf733578116.jpg",
     "static/media/papa2.jpg": "/static/media/papa2.ad3c7f39c800040cf4c6.jpg",
     "static/media/in-jan7.webp": "/static/media/in-jan7.01ce5afd57936e34f936.webp",
     "static/media/rifmoplet.webp": "/static/media/rifmoplet.7538d607c0ffcee29ac8.webp",
@@ -10,9 +11,11 @@
     "static/media/poetess.webp": "/static/media/poetess.d2a189629a93aff3c215.webp",
     "static/media/doroga_k_chramu.webp": "/static/media/doroga_k_chramu.1af49b38f039fb3ee4b6.webp",
     "static/media/macho01.webp": "/static/media/macho01.c19b688744ee8b7a6e39.webp",
+    "static/media/pritvorstvo.webp": "/static/media/pritvorstvo.8ea59dab85f7a3277625.webp",
     "static/media/nezhnost02.webp": "/static/media/nezhnost02.dd12c24ebbe4c877666a.webp",
     "static/media/alex3.png": "/static/media/alex3.e0de3c3bcf69821eb612.png",
     "static/media/night.webp": "/static/media/night.6cbc3d514309d6d8e59d.webp",
+    "static/media/stareyu_ya.webp": "/static/media/stareyu_ya.23aa97f5d9dd518b9bab.webp",
     "static/media/bg1.webp": "/static/media/bg1.59603374e8e051f99a6e.webp",
     "static/media/dost.webp": "/static/media/dost.8f16983faff00fbf02e5.webp",
     "static/media/space.webp": "/static/media/space.60dcb4523dce0b6edd94.webp",
@@ -107,18 +110,18 @@
     "static/media/bescenny.webp": "/static/media/bescenny.fdaeb8579b3e6b0fe06f.webp",
     "static/media/angel.webp": "/static/media/angel.478ac8fe625404a2d9d2.webp",
     "static/media/dream.webp": "/static/media/dream.761141468c9cb7481f76.webp",
-    "static/media/na_kayu.webp": "/static/media/na_kayu.a5970868a2bf339db77d.webp",
+    "static/media/na_krayu.webp": "/static/media/na_krayu.a5970868a2bf339db77d.webp",
     "static/media/vedunja.webp": "/static/media/vedunja.a681bd2334ba789a588d.webp",
     "static/media/vine.webp": "/static/media/vine.8a86eccf453196edd76b.webp",
     "static/media/busina.jpeg": "/static/media/busina.efded7600e0080fd3034.jpeg",
     "static/media/mama1.webp": "/static/media/mama1.9192a82bd6a98b280512.webp",
     "static/media/krokus1.webp": "/static/media/krokus1.0211be75e1cc78f54163.webp",
     "index.html": "/index.html",
-    "main.faf1a7f8.css.map": "/static/css/main.faf1a7f8.css.map",
-    "main.9dfd8f37.js.map": "/static/js/main.9dfd8f37.js.map"
+    "main.d5594e7f.css.map": "/static/css/main.d5594e7f.css.map",
+    "main.9cf57544.js.map": "/static/js/main.9cf57544.js.map"
   },
   "entrypoints": [
-    "static/css/main.faf1a7f8.css",
-    "static/js/main.9dfd8f37.js"
+    "static/css/main.d5594e7f.css",
+    "static/js/main.9cf57544.js"
   ]
 }
