@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d5594e7f.css",
-    "main.js": "/static/js/main.fc00000a.js",
+    "main.js": "/static/js/main.f3982068.js",
     "static/media/1mai.jpg": "/static/media/1mai.d39a8e848a692cbffed4.jpg",
     "static/media/never.jpg": "/static/media/never.2aa0319f2cf733578116.jpg",
     "static/media/na_valgalle.jpg": "/static/media/na_valgalle.f62efe57ac0dd8bc52e8.jpg",
@@ -121,10 +121,10 @@
     "static/media/krokus1.webp": "/static/media/krokus1.0211be75e1cc78f54163.webp",
     "index.html": "/index.html",
     "main.d5594e7f.css.map": "/static/css/main.d5594e7f.css.map",
-    "main.fc00000a.js.map": "/static/js/main.fc00000a.js.map"
+    "main.f3982068.js.map": "/static/js/main.f3982068.js.map"
   },
   "entrypoints": [
     "static/css/main.d5594e7f.css",
-    "static/js/main.fc00000a.js"
+    "static/js/main.f3982068.js"
   ]
 }
