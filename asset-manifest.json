@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d5594e7f.css",
-    "main.js": "/static/js/main.9327681a.js",
+    "main.js": "/static/js/main.68923363.js",
     "static/media/1mai.jpg": "/static/media/1mai.d39a8e848a692cbffed4.jpg",
     "static/media/never.jpg": "/static/media/never.2aa0319f2cf733578116.jpg",
     "static/media/na_valgalle.jpg": "/static/media/na_valgalle.f62efe57ac0dd8bc52e8.jpg",
@@ -29,6 +29,7 @@
     "static/media/revolution.webp": "/static/media/revolution.f7cf1c429bbfb0ed17ea.webp",
     "static/media/happyness.webp": "/static/media/happyness.5555ac36cd98baf40e5e.webp",
     "static/media/zvonok.webp": "/static/media/zvonok.6b000085908410b60c45.webp",
+    "static/media/theres_still_time.jpg": "/static/media/theres_still_time.5ce63c73171572db00ef.jpg",
     "static/media/eastern.webp": "/static/media/eastern.bb64a81b9e726d64b924.webp",
     "static/media/pushkin.webp": "/static/media/pushkin.4ee24d6cc238fc96947b.webp",
     "static/media/durachoki.webp": "/static/media/durachoki.83f5449da60ab2ff9790.webp",
@@ -38,6 +39,7 @@
     "static/media/russian.webp": "/static/media/russian.e3998b52de64d91278a3.webp",
     "static/media/soul.webp": "/static/media/soul.6ff572e2abfbbaf93fb5.webp",
     "static/media/devochka_spit.webp": "/static/media/devochka_spit.7a6afeb0bf6f157ccb8e.webp",
+    "static/media/last_russian.jpg": "/static/media/last_russian.c59fb78432ec4314598b.jpg",
     "static/media/auntunm_day.webp": "/static/media/auntunm_day.62037a46e41252284591.webp",
     "static/media/psiholog.webp": "/static/media/psiholog.8c9dc966d96c6b20ac5b.webp",
     "static/media/be_poetess.webp": "/static/media/be_poetess.78cb06e9e3b86d211801.webp",
@@ -54,6 +56,7 @@
     "static/media/dissotiation.webp": "/static/media/dissotiation.42b9f00530e174a458a0.webp",
     "static/media/you_want.webp": "/static/media/you_want.4d85fedde22dd8a4856f.webp",
     "static/media/chudo.webp": "/static/media/chudo.1ad741cea23f21c207b7.webp",
+    "static/media/1980.jpg": "/static/media/1980.11a56d6dd78786beb6e1.jpg",
     "static/media/october.webp": "/static/media/october.50e17a8d3113c15c0dea.webp",
     "static/media/village_autumn.webp": "/static/media/village_autumn.55e20b079a7b32cfec1e.webp",
     "static/media/love1.webp": "/static/media/love1.f9006de55ce7517ee1bb.webp",
@@ -124,10 +127,10 @@
     "static/media/krokus1.webp": "/static/media/krokus1.0211be75e1cc78f54163.webp",
     "index.html": "/index.html",
     "main.d5594e7f.css.map": "/static/css/main.d5594e7f.css.map",
-    "main.9327681a.js.map": "/static/js/main.9327681a.js.map"
+    "main.68923363.js.map": "/static/js/main.68923363.js.map"
   },
   "entrypoints": [
     "static/css/main.d5594e7f.css",
-    "static/js/main.9327681a.js"
+    "static/js/main.68923363.js"
   ]
 }
