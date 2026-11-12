@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.958b67f0.css",
-    "main.js": "/static/js/main.314fba56.js",
+    "main.css": "/static/css/main.9b05fd51.css",
+    "main.js": "/static/js/main.8c8968ed.js",
     "static/media/1mai.jpg": "/static/media/1mai.d39a8e848a692cbffed4.jpg",
     "static/media/never.jpg": "/static/media/never.2aa0319f2cf733578116.jpg",
     "static/media/na_valgalle.jpg": "/static/media/na_valgalle.f62efe57ac0dd8bc52e8.jpg",
@@ -132,11 +132,11 @@
     "static/media/mama1.webp": "/static/media/mama1.9192a82bd6a98b280512.webp",
     "static/media/krokus1.webp": "/static/media/krokus1.0211be75e1cc78f54163.webp",
     "index.html": "/index.html",
-    "main.958b67f0.css.map": "/static/css/main.958b67f0.css.map",
-    "main.314fba56.js.map": "/static/js/main.314fba56.js.map"
+    "main.9b05fd51.css.map": "/static/css/main.9b05fd51.css.map",
+    "main.8c8968ed.js.map": "/static/js/main.8c8968ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.958b67f0.css",
-    "static/js/main.314fba56.js"
+    "static/css/main.9b05fd51.css",
+    "static/js/main.8c8968ed.js"
   ]
 }
